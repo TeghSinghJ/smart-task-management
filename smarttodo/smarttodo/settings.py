@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'smarttodo.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
-        'USER': 'postgres',
-        'PASSWORD': 'w.jgRR?6-fkpTh5',
-        'HOST': 'db.lwtdmzyqavknefvvompi.supabase.co',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
         'PORT': '5432',
     }
 }
