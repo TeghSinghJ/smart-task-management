@@ -1,0 +1,5 @@
+Django>=4.2
+djangorestframework>=3.14
+django-cors-headers>=4.0
+mysqlclient>=2.2     # or psycopg2>=2.9 if you're using PostgreSQL
+python-dotenv>=1.0
